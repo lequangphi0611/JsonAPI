@@ -1,11 +1,11 @@
 {
 "subjects" : [{
-        "Id": "ADAV",
-        "Name": "Lập trình Android nâng cao"
+        "id": "ADAV",
+        "name": "Lập trình Android nâng cao"
     },
     {
-        "Id": "ADBS",
-        "Name": "Lập trình Android cơ bản"
+        "id": "ADBS",
+        "name": "Lập trình Android cơ bản"
     }
 ]
 
